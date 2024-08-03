@@ -2,10 +2,21 @@
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube Logo" width="200" height="150"/>
 </p>
+
+<h3 align="center">Channel Video Downloader</h3>
+
+<div align="center">
+
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Issues](https://img.shields.io/github/issues/Immain/Channel-Video-Downloader.svg)](https://github.com/Immain/Channel-Video-Downloader/issues)
+[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Immain/Channel-Video-Downloader.svg)](https://github.com/Immain/Channel-Video-Downloader/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+
+</div>
 <!-- End Generation Here -->
 
-# Channel Video Downloader
-Download the most recent video from a specified YouTube channel, along with its thumbnail. It automatically filters out any videos that are shorter than 60 seconds, ensuring only full-length content is saved. Both the video and thumbnail are stored in designated directories.
+# About
+This script is designed to download the most recent video from a specified YouTube channel, along with its thumbnail. It automatically filters out any videos that are shorter than 60 seconds, ensuring only full-length content is saved. Both the video and thumbnail are stored in designated directories.
 
 ## Overview
 
